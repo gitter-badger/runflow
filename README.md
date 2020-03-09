@@ -1,2 +1,4 @@
-# runflow
-Runflow
+# Runflow
+Runflow is automation platform that makes your devops easier.
+
+EXPERIMENTAL
